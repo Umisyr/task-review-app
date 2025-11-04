@@ -11,7 +11,7 @@
 // Database configuration
 define('DB_HOST', 'localhost');        // Database host
 define('DB_USER', 'root');             // Your MySQL username
-define('DB_PASS', '');                 // Your MySQL password
+define('DB_PASS', 'Ummi1234');                 // Your MySQL password
 define('DB_NAME', 'task_review_db');   // Database name
 
 // Create connection
