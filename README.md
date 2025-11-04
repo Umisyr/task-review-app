@@ -167,9 +167,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Umi Syahirah
 
-Project Link: [https://github.com/yourusername/task-review-app](https://github.com/yourusername/task-review-app)
+Project Link: [https://github.com/Umisyr/task-review-app](https://github.com/Umisyr/task-review-app)
 
 ## Acknowledgments
 
